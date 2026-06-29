@@ -1,5 +1,5 @@
 # TaskHub-2.0-Django-WebApp
-A remake of the TaskHub WebApp but written in Django Python instead of PHP
+A remake of the TaskHub WebApp but written in Django Python 6.0.6 instead of PHP 6
 
 ### Project Title: TaskHub
 ### Project Team: Justin Alvey
